@@ -1,0 +1,22 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* Centrar contenido */
+body {
+    display: flex;
+    justify-content: center;   /* centro horizontal */
+    align-items: center;       /* centro vertical */
+    height: 100vh;             /* alto total de la pantalla */
+    background-color: #fff;    /* opcional */
+}
+/* Imagen */
+img {
+    max-width: 100%;
+}
+body {
+    background-color: white;
+}
